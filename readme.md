@@ -1,5 +1,6 @@
 # Olympic SQL Challenge
  -- produced by Will Sutton  https://github.com/wjsutton
+ 
 A SQL Portfolio challenge, set up a database, upload and optimise a dataset, analyse and create a visualisation. 
 
 <img src='https://images.unsplash.com/photo-1569517282132-25d22f4573e6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1932&q=80' width="70%">
